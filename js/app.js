@@ -6,13 +6,6 @@ document.addEventListener('DOMContentLoaded', (e)=>{
     },2000);
 })
 
-
-
-
-
-
-
-
 const header= document.querySelector('.header');
 
 window.onscroll=function(){
